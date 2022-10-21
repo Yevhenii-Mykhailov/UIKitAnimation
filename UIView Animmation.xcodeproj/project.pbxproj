@@ -13,6 +13,8 @@
 		BE5B6D5F2902ECAD0078F63A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE5B6D5D2902ECAD0078F63A /* Main.storyboard */; };
 		BE5B6D612902ECAE0078F63A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE5B6D602902ECAE0078F63A /* Assets.xcassets */; };
 		BE5B6D642902ECAE0078F63A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BE5B6D622902ECAE0078F63A /* LaunchScreen.storyboard */; };
+		BE5B6D6C2902ECE30078F63A /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5B6D6B2902ECE30078F63A /* FirstViewController.swift */; };
+		BE5B6D6E2902ECEE0078F63A /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE5B6D6D2902ECEE0078F63A /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		BE5B6D602902ECAE0078F63A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE5B6D632902ECAE0078F63A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BE5B6D652902ECAE0078F63A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE5B6D6B2902ECE30078F63A /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
+		BE5B6D6D2902ECEE0078F63A /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				BE5B6D602902ECAE0078F63A /* Assets.xcassets */,
 				BE5B6D622902ECAE0078F63A /* LaunchScreen.storyboard */,
 				BE5B6D652902ECAE0078F63A /* Info.plist */,
+				BE5B6D6B2902ECE30078F63A /* FirstViewController.swift */,
+				BE5B6D6D2902ECEE0078F63A /* SecondViewController.swift */,
 			);
 			path = "UIView Animmation";
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				BE5B6D5C2902ECAD0078F63A /* ViewController.swift in Sources */,
 				BE5B6D582902ECAD0078F63A /* AppDelegate.swift in Sources */,
 				BE5B6D5A2902ECAD0078F63A /* SceneDelegate.swift in Sources */,
+				BE5B6D6E2902ECEE0078F63A /* SecondViewController.swift in Sources */,
+				BE5B6D6C2902ECE30078F63A /* FirstViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
